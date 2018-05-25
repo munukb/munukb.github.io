@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:200,500');
+
 body {
     
-font-family: 'Goudy Bookletter 1911', serif;
+font-family: "Oswald", sans-serif; 
 margin: 0;
 padding: 0;
 width: 100%;
@@ -9,8 +11,8 @@ width: 100%;
 
 h1 {
     
-font-family: 'Goudy Bookletter 1911', serif;
-font-weight:normal;
+font-family: "Oswald", sans-serif; 
+font-weight: normal;
 font-size: 55px;
 text-align: left;
 color: #fff;
@@ -21,7 +23,7 @@ padding: 0;
 
 h2 {
     
-font-family: 'Goudy Bookletter 1911', serif;
+font-family: "Oswald", sans-serif; 
 font-weight: normal;
 font-size: 40px;
 text-align: left;
@@ -33,7 +35,7 @@ padding: 0;
 
 h3 {
     
-font-family: 'Goudy Bookletter 1911', serif;
+font-family: "Oswald", sans-serif; 
 font-weight: normal;
 font-size: 16px;
 text-align: left;
@@ -70,7 +72,7 @@ position: relative;
     font-size: 30px; 
     margin-top: 20px; 
     color: #fff; 
-    font-family: 'Goudy Bookletter 1911', serif; 
+    font-family: "Oswald", sans-serif; 
     font-weight: bold; 
 }
 
@@ -97,7 +99,7 @@ padding-left: 15px;
     opacity:0.6; 
     font-size: 16px; 
     text-decoration: none; 
-    font-family: 'Goudy Bookletter 1911', serif;
+    font-family: "Oswald", sans-serif; 
 }
 
 #nav li a.active { 
@@ -115,8 +117,18 @@ padding-left: 15px;
 
 .description {
     
-font-family: 'Goudy Bookletter 1911', serif;
+font-family: "Oswald", sans-serif; 
 font-weight: normal;
+font-size: 30px;
+text-align: left;
+margin: 50px auto;
+    
+}
+
+.almamater {
+    
+font-family: "Oswald", sans-serif; 
+font-weight: 200;
 font-size: 30px;
 text-align: left;
 margin: 50px auto;
@@ -125,7 +137,7 @@ margin: 50px auto;
 
  .author_name_white { 
      
-    font-family: 'Goudy Bookletter 1911', serif;
+    font-family: "Oswald", sans-serif;
     margin: 70px 0 0 75px; 
     color: #fff; 
     font-size: 20px; 
@@ -133,7 +145,7 @@ margin: 50px auto;
 
  .author_name_gray { 
      
-     font-family:"Wellfleet"; 
+     font-family: "Oswald", sans-serif; 
      margin: 70px 0 0 75px; 
      color: #94a4a4; 
      font-size: 20px; } 
@@ -168,7 +180,7 @@ margin: 50px auto;
 
 #header {
     
-font-family: 'Goudy Bookletter 1911', serif;   
+font-family: "Oswald", sans-serif;   
 width: 100%;
 background-color: #314455;
 height: 80px;
@@ -195,7 +207,7 @@ height: 600px;
 margin: 0 auto;
 overflow: hidden;
 padding: 200px 0;
-font-family: 'Goudy Bookletter 1911', serif;
+font-family: "Oswald", sans-serif; 
     
 }
 
@@ -217,4 +229,3 @@ height: 600px;
 padding: 200px 0;
     
 }
-
